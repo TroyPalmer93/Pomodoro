@@ -1,0 +1,8 @@
+body{
+  background-image: linear-gradient(90deg, rgb(12, 27, 27), #f7281dff);
+  background-size: 500%;
+  background-repeat: fill;
+}
+.App {
+  text-align: center;
+}
